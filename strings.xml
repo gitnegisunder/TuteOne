@@ -7,7 +7,7 @@
 
 Tute1
 
-    <string name="txt_error">Error</string>
+
     <string name="txt_email">Email</string>
     <string name="txt_email_format">Please Fill Correct Email</string>
     <string name="txt_pwd">Password Should be 7 character long</string>
